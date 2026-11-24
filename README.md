@@ -1,124 +1,155 @@
 
 <!-- =====================================================
-     P KARTHIKEYA | ELITE DEVELOPER PROFILE
-     Theme: Dark Luxury / Electric Cyan
+     P KARTHIKEYA | NEON NOIR DEVELOPER PROFILE
+     Premium GitHub Profile README
 ====================================================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=KARTHIKEYA+P+%2F+SOFTWARE+DEVELOPER;FULL+STACK+%7C+ARTIFICIAL+INTELLIGENCE;BUILDING+SOFTWARE+THAT+MATTERS." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,40:101B38,75:164E63,100:00D9FF&text=KARTHIKEYA%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%2F%20FULL%20STACK%20%2F%20AI%2FML&descSize=15&descAlignY=62&animation=fadeIn"/>
 
 <br/>
 
-# P KARTHIKEYA
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Engineering+Ideas+Into+Reality.;Building+Intelligent+Digital+Products.;Full+Stack+Development+%7C+AI+%26+ML.;Curiosity+Driven.+Technology+Focused." />
 
-### Software Developer | Full Stack Developer | AI/ML Enthusiast
-
-<p>
-  I engineer digital experiences, develop intelligent applications<br/>
-  and turn complex ideas into practical software solutions.
-</p>
-
-<br/>
+<br/><br/>
 
 <a href="https://karthik-indol.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://linkedin.com/in/karthikeya-p-288a10337">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=karthikp236&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-## 01 / THE DEVELOPER
-
-I'm **P Karthikeya**, a Computer Science Engineering student driven by a passion for software engineering, full-stack development and artificial intelligence.
-
-I enjoy building complete applications — from designing intuitive interfaces to developing backend services, integrating APIs and exploring intelligent automation.
-
-**My engineering interests**
-
-- Full-stack application development
-- AI-powered applications and intelligent agents
-- Machine learning and predictive systems
-- Backend architecture and database management
-- Modern frontend engineering
-- Data structures and problem solving
-
-**My approach:** Understand the problem. Design the solution. Build it. Improve it.
-
----
-
-## 02 / TECHNICAL EXPERTISE
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+# ABOUT ME
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript&theme=dark" />
-
-<br/><br/>
-
-### FRONTEND ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,threejs&theme=dark" />
-
-<br/><br/>
-
-### BACKEND & DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" />
-
-<br/><br/>
-
-### TOOLS & PLATFORMS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker&theme=dark" />
+**I BUILD. I EXPERIMENT. I ENGINEER.**
 
 </div>
 
----
+I'm **P Karthikeya**, a Computer Science Engineering student passionate about software engineering, full-stack development and artificial intelligence.
 
-## 03 / ENGINEERING PROJECTS
+I enjoy developing complete software solutions — from intuitive frontend experiences to backend architecture, API integrations and intelligent applications.
 
-<p align="center">
-  <i>Selected projects demonstrating my interests in software development and intelligent systems.</i>
-</p>
+My goal is to build technology that solves meaningful problems and creates real-world impact.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01. AI AUTOMATION AGENT
+**WHAT I DO**
 
-An AI-powered automation application connecting intelligent reasoning with external tools and services to simplify everyday workflows.
-
-**TECHNOLOGIES**
-
-`React` `Node.js` `Express` `MongoDB` `OAuth`
-
-**FOCUS**
-
-- AI tool integrations
-- API-based automation
-- External service connectivity
+- Full Stack Development
+- AI-Powered Applications
+- Intelligent Automation
+- Backend Engineering
+- Machine Learning Projects
 
 </td>
 <td width="50%" valign="top">
 
-### 02. INTERACTIVE 3D PORTFOLIO
+**WHAT I VALUE**
 
-A modern personal portfolio showcasing my developer identity, technical skills and projects through an interactive web experience.
+- Clean and maintainable code
+- Continuous learning
+- Practical problem solving
+- Scalable application design
+- Building real-world projects
 
-**TECHNOLOGIES**
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# TECHNICAL ARSENAL
+
+*Technologies I work with and continue to explore.*
+
+</div>
+
+### 01 — Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript&theme=dark"/>
+</p>
+
+### 02 — Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,threejs&theme=dark"/>
+</p>
+
+### 03 — Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark"/>
+</p>
+
+### 04 — Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker&theme=dark"/>
+</p>
+
+---
+
+<div align="center">
+
+# SELECTED ENGINEERING PROJECTS
+
+*Turning concepts into functional applications.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / AI AUTOMATION AGENT
+
+An AI-powered automation agent designed to connect intelligent reasoning with external tools and services.
+
+**Core capabilities**
+- AI tool integrations
+- Workflow automation
+- External service connectivity
+- API-based operations
+
+**Technology stack**
+
+`AI Agents` `Node.js` `React` `MongoDB` `OAuth`
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / INTERACTIVE 3D PORTFOLIO
+
+A modern developer portfolio showcasing my technical capabilities, projects and professional identity through an interactive web experience.
+
+**Highlights**
+- Modern interface
+- Interactive 3D elements
+- Responsive design
+- Project showcase
+
+**Technology stack**
 
 `React` `TypeScript` `Three.js`
 
-**LIVE APPLICATION**
-
-[Explore Portfolio ↗](https://karthik-indol.vercel.app/)
+[VIEW LIVE PORTFOLIO ↗](https://karthik-indol.vercel.app/)
 
 </td>
 </tr>
@@ -126,115 +157,113 @@ A modern personal portfolio showcasing my developer identity, technical skills a
 <tr>
 <td width="50%" valign="top">
 
-### 03. AI RESUME ANALYZER
+### 03 / AI RESUME ANALYZER
 
-An intelligent full-stack application that analyzes resumes against job descriptions, extracts relevant skills and identifies missing keywords.
+An intelligent resume analysis application that evaluates resumes against job descriptions and identifies relevant skills and missing keywords.
 
-**TECHNOLOGIES**
+**Core capabilities**
+- Resume text extraction
+- ATS score evaluation
+- Skill identification
+- Missing keyword detection
+
+**Technology stack**
 
 `React` `TypeScript` `Node.js` `Express` `SQLite` `OpenAI API`
-
-**FOCUS**
-
-- Resume parsing
-- ATS score evaluation
-- Skill extraction
 
 </td>
 <td width="50%" valign="top">
 
-### 04. HOUSEHOLD ENERGY FORECASTING
+### 04 / SMART ENERGY FORECASTING
 
 A machine learning project focused on short-term household energy consumption forecasting using smart meter data.
 
-**TECHNOLOGIES**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Kafka` `MLflow`
-
-**FOCUS**
-
+**Core capabilities**
 - Energy consumption prediction
-- Data drift monitoring
-- Automated model retraining
+- Statistical drift detection
+- Model performance monitoring
+- Automated retraining workflow
+
+**Technology stack**
+
+`Python` `Pandas` `Scikit-learn` `Kafka` `MLflow` `Streamlit`
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/karthikp236?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/karthikp236?tab=repositories">
+<img src="https://img.shields.io/badge/DISCOVER%20ALL%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
 
 ---
 
-## 04 / GITHUB PERFORMANCE
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikp236&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&rank_icon=github" />
+# GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp236&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3" />
+*Consistency. Learning. Contribution.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikp236&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp236&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=karthikp236&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8291A8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=karthikp236&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8291A8"/>
 
 </div>
 
 ---
 
-## 05 / CONTRIBUTION ACTIVITY
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp236&bg_color=0D1117&color=E6EDF3&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+# CONTRIBUTION ACTIVITY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp236&bg_color=0D1117&color=E6EDF3&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 06 / CONTRIBUTION SNAKE
-
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/karthikp236/karthikp236/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+# CONTRIBUTION SNAKE
+
+<img width="100%" src="https://raw.githubusercontent.com/karthikp236/karthikp236/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## 07 / CONNECT WITH ME
-
 <div align="center">
 
-### Let's create something meaningful.
+# LET'S BUILD SOMETHING MEANINGFUL
+
+**Interested in collaboration, opportunities and challenging engineering problems.**
 
 <br/>
 
 <a href="https://karthik-indol.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
-
 <a href="https://linkedin.com/in/karthikeya-p-288a10337">
-  <img src="https://img.shields.io/badge/LINKEDIN-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/karthikp236">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-**Open to opportunities, collaboration and challenging engineering problems.**
+*Think. Engineer. Innovate.*
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=karthikp236&style=flat-square&color=00D9FF&label=PROFILE+VISITORS"/>
-
-<br/><br/>
-
-*Think deeply. Build intelligently. Keep innovating.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,45:101B38,100:050816"/>
 
 </div>
