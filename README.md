@@ -1,269 +1,305 @@
 
-<!-- =====================================================
-     P KARTHIKEYA | NEON NOIR DEVELOPER PROFILE
-     Premium GitHub Profile README
-====================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:050816,40:101B38,75:164E63,100:00D9FF&text=KARTHIKEYA%20P&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%2F%20FULL%20STACK%20%2F%20AI%2FML&descSize=15&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:09090B,50:312E81,100:06B6D4&text=KARTHIKEYA%20P&fontSize=65&fontColor=FFFFFF&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENGINEER&descSize=17&descAlignY=65&animation=fadeIn&stroke=6366F1&strokeWidth=1" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Engineering+Ideas+Into+Reality.;Building+Intelligent+Digital+Products.;Full+Stack+Development+%7C+AI+%26+ML.;Curiosity+Driven.+Technology+Focused." />
-
-<br/><br/>
-
-<a href="https://karthik-indol.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-<a href="https://linkedin.com/in/karthikeya-p-288a10337">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=karthikp236&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ABOUT ME
-
-**I BUILD. I EXPERIMENT. I ENGINEER.**
-
-</div>
-
-I'm **P Karthikeya**, a Computer Science Engineering student passionate about software engineering, full-stack development and artificial intelligence.
-
-I enjoy developing complete software solutions — from intuitive frontend experiences to backend architecture, API integrations and intelligent applications.
-
-My goal is to build technology that solves meaningful problems and creates real-world impact.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**WHAT I DO**
-
-- Full Stack Development
-- AI-Powered Applications
-- Intelligent Automation
-- Backend Engineering
-- Machine Learning Projects
-
-</td>
-<td width="50%" valign="top">
-
-**WHAT I VALUE**
-
-- Clean and maintainable code
-- Continuous learning
-- Practical problem solving
-- Scalable application design
-- Building real-world projects
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# TECHNICAL ARSENAL
-
-*Technologies I work with and continue to explore.*
-
-</div>
-
-### 01 — Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript&theme=dark"/>
-</p>
-
-### 02 — Frontend Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,threejs&theme=dark"/>
-</p>
-
-### 03 — Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark"/>
-</p>
-
-### 04 — Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker&theme=dark"/>
-</p>
-
----
-
-<div align="center">
-
-# SELECTED ENGINEERING PROJECTS
-
-*Turning concepts into functional applications.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / AI AUTOMATION AGENT
-
-An AI-powered automation agent designed to connect intelligent reasoning with external tools and services.
-
-**Core capabilities**
-- AI tool integrations
-- Workflow automation
-- External service connectivity
-- API-based operations
-
-**Technology stack**
-
-`AI Agents` `Node.js` `React` `MongoDB` `OAuth`
-
-</td>
-<td width="50%" valign="top">
-
-### 02 / INTERACTIVE 3D PORTFOLIO
-
-A modern developer portfolio showcasing my technical capabilities, projects and professional identity through an interactive web experience.
-
-**Highlights**
-- Modern interface
-- Interactive 3D elements
-- Responsive design
-- Project showcase
-
-**Technology stack**
-
-`React` `TypeScript` `Three.js`
-
-[VIEW LIVE PORTFOLIO ↗](https://karthik-indol.vercel.app/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 03 / AI RESUME ANALYZER
-
-An intelligent resume analysis application that evaluates resumes against job descriptions and identifies relevant skills and missing keywords.
-
-**Core capabilities**
-- Resume text extraction
-- ATS score evaluation
-- Skill identification
-- Missing keyword detection
-
-**Technology stack**
-
-`React` `TypeScript` `Node.js` `Express` `SQLite` `OpenAI API`
-
-</td>
-<td width="50%" valign="top">
-
-### 04 / SMART ENERGY FORECASTING
-
-A machine learning project focused on short-term household energy consumption forecasting using smart meter data.
-
-**Core capabilities**
-- Energy consumption prediction
-- Statistical drift detection
-- Model performance monitoring
-- Automated retraining workflow
-
-**Technology stack**
-
-`Python` `Pandas` `Scikit-learn` `Kafka` `MLflow` `Streamlit`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/karthikp236?tab=repositories">
-<img src="https://img.shields.io/badge/DISCOVER%20ALL%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# GITHUB ANALYTICS
-
-*Consistency. Learning. Contribution.*
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikp236&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=E6EDF3&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp236&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6EDF3"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=karthikp236&hide_border=true&background=0D1117&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8291A8"/>
-
-</div>
-
----
-
-<div align="center">
-
-# CONTRIBUTION ACTIVITY
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp236&bg_color=0D1117&color=E6EDF3&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# CONTRIBUTION SNAKE
-
-<img width="100%" src="https://raw.githubusercontent.com/karthikp236/karthikp236/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-# LET'S BUILD SOMETHING MEANINGFUL
-
-**Interested in collaboration, opportunities and challenging engineering problems.**
-
-<br/>
-
-<a href="https://karthik-indol.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-<a href="https://linkedin.com/in/karthikeya-p-288a10337">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://karthik-indol.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/karthikp236">
-<img src="https://img.shields.io/badge/GITHUB-Follow-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/karthikeya-p-288a10337">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:karthik02032006@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*Think. Engineer. Innovate.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Engineering+Scalable+Full+Stack+Products;Exploring+AI+Agents+%26+LLM+Systems;Turning+Ideas+Into+Real+World+Products" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D9FF,45:101B38,100:050816"/>
+</div>
+
+---
+
+## `01` — ABOUT ME
+
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=karthikp236&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=38BDF8&icon_color=818CF8&text_color=E4E4E7" />
+
+I'm **Karthikeya**, a final-year Computer Science Engineering student and Full Stack Developer passionate about building intelligent, scalable, and user-focused applications.
+
+I combine modern web technologies with AI engineering to develop products that solve real-world problems.
+
+- 🎓 B.Tech CSE — CVR College of Engineering
+- 📊 CGPA: **8.29 / 10**
+- 💻 Solved **450+ DSA problems**
+- 🤖 Building AI-powered applications and autonomous agents
+- ⚡ Experienced in developing and deploying MERN-stack SaaS products
+- 🔗 Exploring LangChain, LangGraph and Model Context Protocol
+- 🎯 Focused on scalable software engineering and intelligent automation
+
+<br clear="right"/>
+
+---
+
+## `02` — WHAT I BUILD
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI & Intelligent Systems
+
+- AI Agent Architectures
+- LangChain & LangGraph
+- Model Context Protocol (MCP)
+- LLM Integrations
+- Multi-step AI Workflows
+- AI-powered Automation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Full Stack Engineering
+
+- MERN Stack Applications
+- SaaS Product Development
+- REST API Architecture
+- Authentication & Authorization
+- Payment Gateway Integration
+- Responsive UI Engineering
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `03` — TECH STACK
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,python,js" />
+
+### FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### AI & AUTOMATION
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_APIs-111827?style=for-the-badge&logo=openai&logoColor=white" />
+
+### CLOUD, DEVOPS & TOOLS
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,git,github,postman,vscode" />
+
+</div>
+
+---
+
+## `04` — FEATURED PROJECTS
+
+<div align="center">
+
+### ◈ 01. AUTOMATE-AI
+**AI AGENT AUTOMATION PLATFORM**
+
+<img src="https://img.shields.io/badge/AI_AGENTS-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/LANGGRAPH-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/MERN-10B981?style=flat-square" />
+
+</div>
+
+An intelligent automation platform that enables users to create, configure, and manage AI agents capable of executing multi-step workflows.
+
+**Engineering Highlights**
+
+- Architected a platform supporting 5+ customizable AI agents with individual prompts, tools and memory.
+- Orchestrated multi-step workflows using LangChain and LangGraph.
+- Implemented 4+ workflow node types: LLM, Tool, Conditional and Loop.
+- Integrated 5+ external tools and services through MCP.
+- Developed 15+ REST APIs with JWT authentication and MongoDB persistence.
+- Integrated Razorpay subscriptions with webhook verification and usage-based access control.
+- Optimized frontend state management using Redux Toolkit.
+
+**Technology:** React.js · Node.js · Express.js · MongoDB · LangChain · LangGraph · MCP · Redux Toolkit · Shadcn UI · Razorpay
+
+---
+
+<div align="center">
+
+### ◈ 02. INTERVIEWIQ
+**AI-POWERED INTERVIEW PREPARATION SAAS**
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/SAAS-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/FIREBASE-F59E0B?style=flat-square" />
+
+</div>
+
+An AI-powered interview preparation platform that transforms resumes into personalized interview experiences with intelligent answer evaluation.
+
+**Engineering Highlights**
+
+- Built resume-based interview generation supporting 15+ tailored technical and HR questions.
+- Developed an answer evaluation engine using 4 criteria: relevance, clarity, depth and communication.
+- Implemented personalized feedback and improvement suggestions.
+- Designed a credit-based subscription model with 3 purchasable credit packs.
+- Integrated Firebase Google Authentication.
+- Developed 10+ APIs for resume parsing, question generation, feedback and payments.
+- Implemented server-side payment signature verification.
+
+**Technology:** React.js · Node.js · Express.js · MongoDB · Firebase Auth · Razorpay · Framer Motion · Render
+
+---
+
+<div align="center">
+
+### ◈ 03. SITEFORGE AI
+**AI-POWERED WEBSITE BUILDER**
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/MERN_STACK-059669?style=flat-square" />
+
+</div>
+
+An AI-powered website builder that converts natural-language prompts into responsive websites with interactive customization.
+
+**Engineering Highlights**
+
+- Engineered AI website generation targeting 15–20 seconds through LLM API integration.
+- Enabled customization across 5+ layouts.
+- Built an interactive editor with real-time preview and drag-and-edit functionality.
+- Designed 12+ REST API endpoints using Node.js and Express.js.
+- Implemented complete project lifecycle management: Create, Edit, Save and Delete.
+- Integrated secure authentication and MongoDB CRUD operations.
+
+**Technology:** React.js · Node.js · Express.js · MongoDB · LLM APIs
+
+---
+
+## `05` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikp236&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=38BDF8&icon_color=818CF8&text_color=E4E4E7" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikp236&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=38BDF8&text_color=E4E4E7" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=karthikp236&theme=tokyonight&hide_border=true&background=09090B&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikp236&bg_color=09090B&color=38BDF8&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## `06` — PROBLEM SOLVING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/450%2B-PROBLEMS_SOLVED-6366F1?style=for-the-badge&logo=leetcode&logoColor=white" />
+
+<br/><br/>
+
+**Consistency. Logic. Optimization.**
+
+Regularly solving algorithmic challenges and strengthening problem-solving skills across multiple coding platforms.
+
+<br/>
+
+<img src="https://img.shields.io/badge/DATA_STRUCTURES-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/ALGORITHMS-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/OOPS-10B981?style=flat-square" />
+<img src="https://img.shields.io/badge/DBMS-F59E0B?style=flat-square" />
+
+</div>
+
+---
+
+## `07` — CERTIFICATIONS
+
+| Certification | Issuing Organization | Year |
+|:---|:---|:---:|
+| AWS Academy Graduate – Cloud Foundations | AWS Academy | 2026 |
+| Applied Database Systems using Oracle AI Database | Oracle Academy | 2026 |
+| Data Science & Analytics | HP LIFE | 2025 |
+
+---
+
+## `08` — EDUCATION
+
+**Bachelor of Technology — Computer Science & Engineering**
+
+CVR College of Engineering
+
+| Academic Detail | Information |
+|:---|:---|
+| Degree | B.Tech CSE |
+| Expected Graduation | 2027 |
+| CGPA | **8.29 / 10** |
+
+---
+
+## `09` — LET'S CONNECT
+
+<div align="center">
+
+### Have an interesting idea? Let's build something extraordinary.
+
+I'm interested in software engineering, full-stack development, AI engineering and opportunities to build impactful products.
+
+<br/>
+
+<a href="https://karthik-indol.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:karthik02032006@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/karthikeya-p-288a10337">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/karthikp236">
+<img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=karthikp236&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:06B6D4&height=120&section=footer" width="100%" />
+
+**BUILDING TODAY. ENGINEERING TOMORROW.**
 
 </div>
